@@ -1,0 +1,11 @@
+Allgemein:
+- Übersetzungen
+
+Fraktionen:
+- Beschreibungen
+- KI-Einstellungen?
+- Individuelle Anführer
+- Evtl einzigartige Rassen für einzigartige Namen für Twitchstreamerviewer
+
+Unit:
+- Balancing
