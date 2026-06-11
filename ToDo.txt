@@ -1,5 +1,6 @@
 Allgemein:
 - Übersetzungen
+https://github.com/wesnoth/wesnoth/blob/master/data/tools/wmlxgettext
 
 Fraktionen:
 - Beschreibungen
