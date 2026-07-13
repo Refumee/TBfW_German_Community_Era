@@ -1,0 +1,4 @@
+taken from core - spider images are resized giant spider images
+selfmade: owl, butterfly, duck, hedgedog, cat, squirrel, lion, mole, hedgedog, orca, bernard, lynx, quetzal, oryx, racoon, duck
+--> part of the adventcalendar III 2023 , https://forums.wesnoth.org/viewtopic.php?t=57384 and
+--> part of the adventcalendar IV 2025
